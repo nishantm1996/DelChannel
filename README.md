@@ -1,1 +1,1 @@
-# DelChannel
+"Deletion channel simulations."
