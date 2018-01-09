@@ -1,1 +1,1 @@
-"Deletion channel simulations."
+"MATLAB modeling and simulation of the deletion channel"
