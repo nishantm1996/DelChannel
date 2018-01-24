@@ -1,1 +1,1 @@
-"Independent project - MATLAB modeling and simulation of the deletion channel"
+"Independent project - MATLAB Modeling and Simulation of the Deletion Channel"
